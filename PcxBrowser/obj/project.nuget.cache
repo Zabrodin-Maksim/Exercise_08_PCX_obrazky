@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzCvl31J22xQkZAuTzZ+FSxFW75yN2EXS+6bOqSawBq9/fCUVey9/XlSvmYitmGqe7H21K4HJFeSIH9QTenhiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\42070\\source\\repos\\exercise-08-Zabrodin-Maksim\\PcxBrowser\\PcxBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\42070\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\42070\\.nuget\\packages\\sixlabors.imagesharp\\2.1.0\\sixlabors.imagesharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\42070\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\42070\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
